@@ -1,0 +1,40 @@
+text
+"<bound method SelectorList.get of [<Selector xpath=""descendant-or-self::p[@class and contains(concat(' ', normalize-space(@class), ' '), ' summary ')]/text()"" data=' As U.S. officials prepare an antitrust '>]>"
+"<bound method SelectorList.get of [<Selector xpath=""descendant-or-self::p[@class and contains(concat(' ', normalize-space(@class), ' '), ' summary ')]/text()"" data=' Shares of Daimler fell after the maker '>]>"
+"<bound method SelectorList.get of [<Selector xpath=""descendant-or-self::p[@class and contains(concat(' ', normalize-space(@class), ' '), ' summary ')]/text()"" data=' Carlos Ghosn’s defense team challenged '>]>"
+"<bound method SelectorList.get of [<Selector xpath=""descendant-or-self::p[@class and contains(concat(' ', normalize-space(@class), ' '), ' summary ')]/text()"" data=' The FBI is examining whether lab-testin'>]>"
+"<bound method SelectorList.get of [<Selector xpath=""descendant-or-self::p[@class and contains(concat(' ', normalize-space(@class), ' '), ' summary ')]/text()"" data=' Eldorado Resorts agreed to acquire Caes'>]>"
+"<bound method SelectorList.get of [<Selector xpath=""descendant-or-self::p[@class and contains(concat(' ', normalize-space(@class), ' '), ' summary ')]/text()"" data=' Bristol-Myers Squibb said it would dive'>]>"
+<bound method SelectorList.get of []>
+<bound method SelectorList.get of []>
+<bound method SelectorList.get of []>
+text
+" As U.S. officials prepare an antitrust probe of Google and possibly other Silicon Valley giants, a loose-knit crew of its rivals is gearing up to help."
+" France’s Carrefour is shedding most of its operations in the country, where big-box retailers are struggling to keep pace in a market whose shoppers are turning toward nimble delivery providers."
+" U.S. carriers, after years of ceding market share to rivals and international partners on overseas flights, are adding more than a dozen new routes and increasing capacity to destinations like South Africa, India and Croatia."
+" Pioneer Natural Resources, which once promised production to rival Libya, was part of a revolution that helped make the U.S. a global oil player. Now after years of overspending, the company is pulling back."
+" Bristol-Myers Squibb said it would divest itself of Otezla, a psoriasis treatment owned by Celgene, to help smooth the path for the companies’ pending merger."
+ Shares of Daimler fell after the maker of Mercedes-Benz luxury cars issued a profit warning related to a government recall of vehicles suspected of manipulating diesel emissions.
+""
+""
+""
+text
+" As U.S. officials prepare an antitrust probe of Google and possibly other Silicon Valley giants, a loose-knit crew of its rivals is gearing up to help."
+" France’s Carrefour is shedding most of its operations in the country, where big-box retailers are struggling to keep pace in a market whose shoppers are turning toward nimble delivery providers."
+" U.S. carriers, after years of ceding market share to rivals and international partners on overseas flights, are adding more than a dozen new routes and increasing capacity to destinations like South Africa, India and Croatia."
+" Pioneer Natural Resources, which once promised production to rival Libya, was part of a revolution that helped make the U.S. a global oil player. Now after years of overspending, the company is pulling back."
+" Bristol-Myers Squibb said it would divest itself of Otezla, a psoriasis treatment owned by Celgene, to help smooth the path for the companies’ pending merger."
+ Shares of Daimler fell after the maker of Mercedes-Benz luxury cars issued a profit warning related to a government recall of vehicles suspected of manipulating diesel emissions.
+""
+""
+""
+text
+""
+""
+""
+""
+""
+""
+""
+""
+""
